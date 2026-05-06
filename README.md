@@ -1,2 +1,2 @@
 # Globo-Cubo
-Art project, engineerg Cubo, artist Globo
+Art project, engineer Cubo, artist Globo
